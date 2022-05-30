@@ -1,4 +1,4 @@
-baseURL = "https://yanisnayl.github.io/sitehugo/"
+baseURL = "https://yanisnayl.github.io/yanisnayl/"
 title = "Professeur Yanis"
 theme = "hugo-coder"
 languageCode = "en"
